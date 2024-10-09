@@ -155,7 +155,7 @@ a{
   .btns{
     flex-direction: column;
     margin: 0px;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
   }
   .btn{
     margin: 0;
@@ -163,5 +163,8 @@ a{
   }
   .greetings{
     margin: 0;
+  }
+  .App{
+    padding: 7% 10%;
   }
 }
