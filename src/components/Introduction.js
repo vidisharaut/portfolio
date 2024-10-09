@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 const Introduction = () => {
   return (
     <div className='intro'>
-<h1>Hi, I'm Vidisha Raut.</h1>
+<h1 className='greetings'>Hi, I'm Vidisha Raut.</h1>
 <h2>Aspiring Software Engineer | Frontend Developer | Python Programmer</h2>
 <p>I’m a final-year engineering student with hands-on experience in building responsive frontend applications and Python-based projects. Passionate about learning new technologies, problem-solving, and bringing creative solutions to life through code.</p>
 <div className='btns'>
