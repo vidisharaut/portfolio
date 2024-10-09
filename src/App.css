@@ -11,9 +11,7 @@ img {
   border-radius: 50%;
   border: 2px solid darkcyan;
 }
-.about{
-  margin: 5% 20%;
-}
+
 
 .navbar{
   display: flex;
@@ -59,6 +57,9 @@ img {
 }
 
 /* About */
+.about{
+  padding: 5% 20%;
+}
 .about h3{
   font-size: 20px;
   margin-bottom: 2px;
@@ -166,5 +167,8 @@ a{
   }
   .App{
     padding: 7% 10%;
+  }
+  .about{
+    padding: 5% 10%;
   }
 }
