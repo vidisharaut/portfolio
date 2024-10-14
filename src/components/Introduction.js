@@ -9,7 +9,7 @@ const Introduction = () => {
 <p>I’m a final-year engineering student with hands-on experience in building responsive frontend applications and Python-based projects. Passionate about learning new technologies, problem-solving, and bringing creative solutions to life through code.</p>
 <div className='btns'>
 <Link to='/Projects' className="btn"> My Projects</Link>.
-<a href='https://drive.google.com/file/d/1GWODRH8fNUhbKKMjnmOqE-ts5XsmCaQG/view?usp=drive_link' target="_blank" className='btn'>Resume</a>
+<a href='https://drive.google.com/drive/folders/1nSJ7CGr7itVk0nJKyke8RxurCWrv0UkE' target="_blank" className='btn'>Resume</a>
 </div>
 
     </div>
